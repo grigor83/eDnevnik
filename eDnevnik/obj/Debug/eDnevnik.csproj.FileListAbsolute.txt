@@ -1,0 +1,198 @@
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\EvidencijaIzostanaka.exe.config
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\EvidencijaIzostanaka.exe
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\EvidencijaIzostanaka.pdb
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\Google.Protobuf.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\MySql.Data.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Buffers.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Memory.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\ZstdSharp.dll
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\Google.Protobuf.pdb
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\Google.Protobuf.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\MySql.Data.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Buffers.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Memory.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\eDnevnik.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\eDnevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.Administrator2.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.Forms.DeleteForm.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.EvidentirajIzostanakForm.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.MainForm.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.RasporedČasova.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.OpravdajIzostanakForm.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.Properties.Resources.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.TeacherForm.resources
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\eDnevnik.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\eDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\eDnevnik.csproj.CopyComplete
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.exe
+C:\Users\Igor\source\repos\EvidencijaIzostanaka\obj\Debug\EvidencijaIzostanaka.pdb
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe.config
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\EvidencijaIzostanaka.pdb
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\BouncyCastle.Cryptography.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\Google.Protobuf.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Compression.LZ4.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Hash.xxHash.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\MySql.Data.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Buffers.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.IO.Pipelines.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Memory.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Numerics.Vectors.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\ZstdSharp.dll
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\BouncyCastle.Cryptography.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\Google.Protobuf.pdb
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\Google.Protobuf.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Compression.LZ4.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\K4os.Hash.xxHash.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\MySql.Data.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Buffers.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.IO.Pipelines.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Memory.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Numerics.Vectors.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\eDnevnik.csproj.AssemblyReference.cache
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\eDnevnik.csproj.SuggestedBindingRedirects.cache
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.Administrator2.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.Forms.DeleteForm.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.EvidentirajIzostanakForm.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.MainForm.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.RasporedČasova.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.OpravdajIzostanakForm.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.Properties.Resources.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.TeacherForm.resources
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\eDnevnik.csproj.GenerateResource.cache
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\eDnevnik.csproj.CoreCompileInputs.cache
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\eDnevnik.csproj.CopyComplete
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.exe
+E:\FAKS\IV_GODINA\1. INTERAKCIJA ČOVJEK-RAČUNAR\3. projekat\11116_21-Igor_Grubiša\Projekat_A-eDnevnik\eDnevnik\obj\Debug\EvidencijaIzostanaka.pdb
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe.config
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\EvidencijaIzostanaka.pdb
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\Google.Protobuf.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\MySql.Data.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Buffers.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Memory.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\ZstdSharp.dll
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\Google.Protobuf.pdb
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\Google.Protobuf.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\MySql.Data.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Buffers.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Memory.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Igor\source\repos\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\eDnevnik.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\eDnevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.Administrator2.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.Forms.DeleteForm.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.EvidentirajIzostanakForm.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.MainForm.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.RasporedČasova.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.OpravdajIzostanakForm.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.Properties.Resources.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.TeacherForm.resources
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\eDnevnik.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\eDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\eDnevnik.csproj.CopyComplete
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.exe
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.pdb
+C:\Users\Igor\source\repos\eDnevnik\obj\Debug\EvidencijaIzostanaka.Forms.OpštiUspjehForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe.config
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\EvidencijaIzostanaka.exe
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\EvidencijaIzostanaka.pdb
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\BouncyCastle.Cryptography.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\Google.Protobuf.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Compression.LZ4.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Hash.xxHash.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\MySql.Data.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Buffers.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.IO.Pipelines.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Memory.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Numerics.Vectors.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\ZstdSharp.dll
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\BouncyCastle.Cryptography.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\Google.Protobuf.pdb
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\Google.Protobuf.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Compression.LZ4.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\K4os.Hash.xxHash.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\MySql.Data.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Buffers.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.IO.Pipelines.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Memory.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Numerics.Vectors.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\eDnevnik.csproj.AssemblyReference.cache
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\eDnevnik.csproj.SuggestedBindingRedirects.cache
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.Administrator2.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.Forms.DeleteForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.EvidentirajIzostanakForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.MainForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.Forms.OpštiUspjehForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.RasporedČasova.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.OpravdajIzostanakForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.Properties.Resources.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.TeacherForm.resources
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\eDnevnik.csproj.GenerateResource.cache
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\eDnevnik.csproj.CoreCompileInputs.cache
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\eDnevnik.csproj.CopyComplete
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.exe
+E:\FAKS\III_GODINA\10. BAZE PODATAKA\PROJEKAT\eDnevnik\obj\Debug\EvidencijaIzostanaka.pdb
